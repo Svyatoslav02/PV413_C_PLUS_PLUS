@@ -1,3 +1,4 @@
+
 #include <iostream>
 
 using namespace std;
@@ -8,5 +9,7 @@ int main()
 
     cout << "IT STEP" << endl;
 
+	cout << "hello";
 
+	cout << "Hello IT Step! " << endl;
 }
