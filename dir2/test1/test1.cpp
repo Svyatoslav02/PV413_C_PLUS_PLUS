@@ -1,9 +1,23 @@
 #include <iostream>
 
 using namespace std;
+class ITSTEP
+{
+public:
+	ITSTEP();
+	~ITSTEP();
 
+
+};
+
+ITSTEP::ITSTEP()
+{
+}
+
+ITSTEP::~ITSTEP()
+{
+}
 int main()
 {
-    cout << "Hello World!\n";
-    cout << "Hi.\n";
+	cout << "hello";
 }
