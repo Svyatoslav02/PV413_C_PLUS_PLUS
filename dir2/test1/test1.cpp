@@ -1,4 +1,3 @@
-
 #include <iostream>
 
 using namespace std;
@@ -21,6 +20,9 @@ ITSTEP::~ITSTEP()
 int main()
 {
 
+	cout << "hello";
+
+
     cout << "sadada";
 
     cout << "Hello World!\n";
@@ -32,5 +34,4 @@ int main()
 	cout << "Hello IT Step! " << endl;
 	cout << " Andrey" << endl;
     
-
 }
