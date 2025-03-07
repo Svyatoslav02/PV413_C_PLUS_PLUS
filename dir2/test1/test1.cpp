@@ -29,4 +29,6 @@ int main()
 	cout << "hello";
 
 	cout << "Hello IT Step! " << endl;
+
+	cout << "vldmr" << endl;
 }
