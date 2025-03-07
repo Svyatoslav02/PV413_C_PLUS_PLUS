@@ -7,6 +7,7 @@ using namespace std;
 class ITSTEP {
 private:
     string name;
+    int age;
 public:
     ITSTEP(){}
 };
