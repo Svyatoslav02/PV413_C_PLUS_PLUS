@@ -177,8 +177,7 @@ public:
 
 int main()
 {
-	/*Student student("ITSTEP", "C++", 1, "Mark", "Mnojinov");
-	student.showStudent();*/
+
 	Car car1("A6", 250, 300, "Diesel", 18, 4, 2021, "Audi");
 	cout << car1 << endl;
 
