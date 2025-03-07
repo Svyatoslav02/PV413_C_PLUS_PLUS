@@ -7,5 +7,5 @@ int main()
 {
 	cout << "hello";
 
-	cout << "Hello IT STep! " << endl;
+	cout << "Hello IT Step! " << endl;
 }
