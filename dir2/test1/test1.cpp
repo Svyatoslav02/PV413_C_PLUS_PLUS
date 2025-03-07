@@ -20,6 +20,7 @@ ITSTEP::~ITSTEP()
 }
 int main()
 {
+
     cout << "sadada";
 
     cout << "Hello World!\n";
@@ -29,4 +30,7 @@ int main()
 	cout << "hello";
 
 	cout << "Hello IT Step! " << endl;
+	cout << " Andrey" << endl;
+    
+
 }
